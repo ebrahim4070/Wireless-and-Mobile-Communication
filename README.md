@@ -2,15 +2,15 @@
 
 Welcome to the **Wireless and Mobile Communication** repository!
 
+[![Project Demonstration Video](https://img.youtube.com/vi/nygz-rZPGfw/0.jpg)](https://www.youtube.com/watch?v=nygz-rZPGfw)
+
+[▶ Watch Project Demonstration](https://youtu.be/nygz-rZPGfw)
+
 This repository contains academic materials, presentations, practical lab works, experiments, and project demonstrations related to Wireless and Mobile Communication.
 
 ## 🎥 Project Demonstration
 
 Watch the video demonstration below:
-
-[![Project Demonstration Video](https://img.youtube.com/vi/nygz-rZPGfw/0.jpg)](https://www.youtube.com/watch?v=nygz-rZPGfw)
-
-[▶ Watch Project Demonstration](https://youtu.be/nygz-rZPGfw)
 
 ## 📚 Course Information
 
